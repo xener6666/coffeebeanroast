@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#selectImage_row1column1{
+    width: 15%;
+}
+
+#selectImage_row1column2 {
+    width: 61%;
+}
+
+#selectImage_row1column3 {
+    width: 24%;
+    text-align: center;
+}
+
+#tblButtons_row1column1 {
+    width: 80%;
+}
+
+#tblButtons_row1column2 {
+    width: 20%;
+    text-align: left;
+}
+
+#Comments {
+    width: 622px;
+    text-align: center;
+}
